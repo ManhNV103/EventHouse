@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5MOmEEn/Vz+HKSiy9EsHLUIe9x//oi7WxqTaU8IV5MvJT7hIWhWk+7yd27xshn1zFdFbX38bYt/gG/CppupXng==",
+  "success": true,
+  "projectFilePath": "/Users/manhnguyen/Manh/learning/courses/NET Core & React/Reactivities/Persistence/Persistence.csproj",
+  "expectedPackageFiles": [
+    "/Users/manhnguyen/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/manhnguyen/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
