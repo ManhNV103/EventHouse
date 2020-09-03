@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PaKHxrtXJhMtl4pl7nxo2m1E1DoY2ZtIs2LU1U9HP9Ck7ca3tXE75JdF7bjtdqDX8y2IxbjjuOxbK/NKj4vX1Q==",
+  "dgSpecHash": "EzKNA41eE+Ht7f58NLeECaLzhjnWepD2RtyELdNVjHFr5tIQ95Hbizd0g7XuaqlCtKJYdm+//sQOdOkDKlY3lw==",
   "success": true,
   "projectFilePath": "/Users/manhnguyen/Manh/learning/courses/NET Core & React/Reactivities/Domain/Domain.csproj",
-  "expectedPackageFiles": [
-    "/Users/manhnguyen/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/Users/manhnguyen/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
