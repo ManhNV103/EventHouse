@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "kzDt/xPUNRqG/2J/eMngbDsO1B9BeU/N6+wReDnGLfkoLO+S9Gf7L6Z/OSTBbtJzvkupGNBa+XrC3ty5GrT+tw==",
+  "dgSpecHash": "aX+bdvLK2+MpfrsbaV991HW0tNApp6/gdPUcWRD9CSuVsb+GuE8pkU7Dfacr/PUNx5b2mE/a0d7SRM0Zg0diGg==",
   "success": true,
   "projectFilePath": "/Users/manhnguyen/Manh/learning/courses/NET Core & React/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/manhnguyen/.nuget/packages/mediatr/7.0.0/mediatr.7.0.0.nupkg.sha512",
+    "/Users/manhnguyen/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/7.0.0/mediatr.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "/Users/manhnguyen/.nuget/packages/microsoft.csharp/4.6.0/microsoft.csharp.4.6.0.nupkg.sha512",
     "/Users/manhnguyen/.nuget/packages/microsoft.data.sqlite.core/3.0.0/microsoft.data.sqlite.core.3.0.0.nupkg.sha512",
     "/Users/manhnguyen/.nuget/packages/microsoft.dotnet.platformabstractions/3.0.0/microsoft.dotnet.platformabstractions.3.0.0.nupkg.sha512",
