@@ -8,7 +8,6 @@ namespace Application.Activities
 {
     public class Edit
     {
-
         public class Command : IRequest
         {
             public Guid Id { get; set; }
