@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "D9+I4GApYUDyamp1iVO4PdKnJjw4FFY8wgyLkZ7o/ukdVIx8eTJPl3ipsLbp8DZa7JpZHNO47kzQhGf3JmgzTg==",
+  "dgSpecHash": "i3dJkQDHaDaNAASdGHA9Vx39LZtXm+38GW9kZusd3L1xJ1+J03PB+Idu5JTJnxKzcwx6tRHGuDZ7PYQuACFk5A==",
   "success": true,
   "projectFilePath": "/Users/manhnguyen/Manh/learning/courses/NET Core & React/Reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/manhnguyen/.nuget/packages/fluentvalidation/8.5.1/fluentvalidation.8.5.1.nupkg.sha512",
+    "/Users/manhnguyen/.nuget/packages/fluentvalidation.aspnetcore/8.5.1/fluentvalidation.aspnetcore.8.5.1.nupkg.sha512",
+    "/Users/manhnguyen/.nuget/packages/fluentvalidation.dependencyinjectionextensions/8.5.1/fluentvalidation.dependencyinjectionextensions.8.5.1.nupkg.sha512",
     "/Users/manhnguyen/.nuget/packages/mediatr/7.0.0/mediatr.7.0.0.nupkg.sha512",
     "/Users/manhnguyen/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/7.0.0/mediatr.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
-    "/Users/manhnguyen/.nuget/packages/microsoft.bcl.asyncinterfaces/1.0.0/microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
     "/Users/manhnguyen/.nuget/packages/microsoft.data.sqlite.core/3.0.0/microsoft.data.sqlite.core.3.0.0.nupkg.sha512",
     "/Users/manhnguyen/.nuget/packages/microsoft.dotnet.platformabstractions/3.0.0/microsoft.dotnet.platformabstractions.3.0.0.nupkg.sha512",
     "/Users/manhnguyen/.nuget/packages/microsoft.entityframeworkcore/3.0.0/microsoft.entityframeworkcore.3.0.0.nupkg.sha512",
@@ -30,17 +32,14 @@
     "/Users/manhnguyen/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.0/sqlitepclraw.bundle_e_sqlite3.2.0.0.nupkg.sha512",
     "/Users/manhnguyen/.nuget/packages/sqlitepclraw.core/2.0.0/sqlitepclraw.core.2.0.0.nupkg.sha512",
     "/Users/manhnguyen/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.0/sqlitepclraw.lib.e_sqlite3.2.0.0.nupkg.sha512",
-    "/Users/manhnguyen/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.0.0/sqlitepclraw.provider.e_sqlite3.2.0.0.nupkg.sha512",
-    "/Users/manhnguyen/.nuget/packages/system.buffers/4.5.0/system.buffers.4.5.0.nupkg.sha512",
+    "/Users/manhnguyen/.nuget/packages/sqlitepclraw.provider.dynamic_cdecl/2.0.0/sqlitepclraw.provider.dynamic_cdecl.2.0.0.nupkg.sha512",
     "/Users/manhnguyen/.nuget/packages/system.collections.immutable/1.6.0/system.collections.immutable.1.6.0.nupkg.sha512",
     "/Users/manhnguyen/.nuget/packages/system.componentmodel.annotations/4.6.0/system.componentmodel.annotations.4.6.0.nupkg.sha512",
     "/Users/manhnguyen/.nuget/packages/system.diagnostics.diagnosticsource/4.6.0/system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
     "/Users/manhnguyen/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
-    "/Users/manhnguyen/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
-    "/Users/manhnguyen/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
-    "/Users/manhnguyen/.nuget/packages/system.text.encodings.web/4.6.0/system.text.encodings.web.4.6.0.nupkg.sha512",
     "/Users/manhnguyen/.nuget/packages/system.text.json/4.6.0/system.text.json.4.6.0.nupkg.sha512",
-    "/Users/manhnguyen/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+    "/Users/manhnguyen/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "/Users/manhnguyen/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
   ],
   "logs": []
 }

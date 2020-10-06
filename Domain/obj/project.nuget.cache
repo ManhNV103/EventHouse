@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "EzKNA41eE+Ht7f58NLeECaLzhjnWepD2RtyELdNVjHFr5tIQ95Hbizd0g7XuaqlCtKJYdm+//sQOdOkDKlY3lw==",
+  "dgSpecHash": "TM/d1g0CavvjrbyNxkjZu3fAxXahJnCX4SfEpduzE1pgAckkCFw7KYJh6cccyx4+B0dme2QvbnPTcCGxb5J80Q==",
   "success": true,
   "projectFilePath": "/Users/manhnguyen/Manh/learning/courses/NET Core & React/Reactivities/Domain/Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/manhnguyen/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

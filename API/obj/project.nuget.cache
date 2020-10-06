@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "aX+bdvLK2+MpfrsbaV991HW0tNApp6/gdPUcWRD9CSuVsb+GuE8pkU7Dfacr/PUNx5b2mE/a0d7SRM0Zg0diGg==",
+  "dgSpecHash": "uHAsPN4sFPLp7BGnH1PtOtw2nR2JfV6LP6MY8sT0OJ8PsxrqXdB+9SX/Eu6caKfjuB3MXXWyHihpPj1agDO8nA==",
   "success": true,
   "projectFilePath": "/Users/manhnguyen/Manh/learning/courses/NET Core & React/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/manhnguyen/.nuget/packages/fluentvalidation/8.5.1/fluentvalidation.8.5.1.nupkg.sha512",
+    "/Users/manhnguyen/.nuget/packages/fluentvalidation.aspnetcore/8.5.1/fluentvalidation.aspnetcore.8.5.1.nupkg.sha512",
+    "/Users/manhnguyen/.nuget/packages/fluentvalidation.dependencyinjectionextensions/8.5.1/fluentvalidation.dependencyinjectionextensions.8.5.1.nupkg.sha512",
     "/Users/manhnguyen/.nuget/packages/mediatr/7.0.0/mediatr.7.0.0.nupkg.sha512",
     "/Users/manhnguyen/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/7.0.0/mediatr.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "/Users/manhnguyen/.nuget/packages/microsoft.csharp/4.6.0/microsoft.csharp.4.6.0.nupkg.sha512",
