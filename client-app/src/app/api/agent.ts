@@ -32,13 +32,15 @@ const sleep = (ms: number) => (response: AxiosResponse) =>
     setTimeout(() => resolve(response), ms)
   );
 
+const loadingTime = 300;
+
 const requests = {
-  get: (url: string) => axios.get(url).then(sleep(1000)).then(responseBody),
+  get: (url: string) => axios.get(url).then(sleep(loadingTime)).then(responseBody),
   post: (url: string, body: {}) =>
-    axios.post(url, body).then(sleep(1000)).then(responseBody),
+    axios.post(url, body).then(sleep(loadingTime)).then(responseBody),
   put: (url: string, body: {}) =>
-    axios.put(url, body).then(sleep(1000)).then(responseBody),
-  del: (url: string) => axios.delete(url).then(sleep(1000)).then(responseBody),
+    axios.put(url, body).then(sleep(loadingTime)).then(responseBody),
+  del: (url: string) => axios.delete(url).then(sleep(loadingTime)).then(responseBody),
 };
 
 const Activities = {
