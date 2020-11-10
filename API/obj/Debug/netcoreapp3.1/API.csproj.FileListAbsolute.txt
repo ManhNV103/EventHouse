@@ -69,3 +69,7 @@
 /Users/manhnguyen/Manh/learning/courses/NET Core & React/Reactivities/API/obj/Debug/netcoreapp3.1/API.dll
 /Users/manhnguyen/Manh/learning/courses/NET Core & React/Reactivities/API/obj/Debug/netcoreapp3.1/API.pdb
 /Users/manhnguyen/Manh/learning/courses/NET Core & React/Reactivities/API/obj/Debug/netcoreapp3.1/API.genruntimeconfig.cache
+/Users/manhnguyen/Manh/learning/courses/NET Core & React/Reactivities/API/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/manhnguyen/Manh/learning/courses/NET Core & React/Reactivities/API/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/manhnguyen/Manh/learning/courses/NET Core & React/Reactivities/API/bin/Debug/netcoreapp3.1/Castle.Core.dll
+/Users/manhnguyen/Manh/learning/courses/NET Core & React/Reactivities/API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Proxies.dll
