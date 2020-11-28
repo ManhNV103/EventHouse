@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "M3JXZVmYUYK4D8V+PcS9aPPRi5jVdiu4n/S1OsQBRIN7WH/CwZcKWPnEChu9TybQqfjN+m7d7T02ckHoKFyohQ==",
+  "dgSpecHash": "6AEL632z5fIU7uAwGObsoWjjhD7Vz+TTqGhj8ezShSxYTDZq1hmnoRqv/XTj4/lHk6AW56g9rNi+2d1WDMXs0g==",
   "success": true,
   "projectFilePath": "/Users/manhnguyen/Manh/learning/courses/NET Core & React/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/manhnguyen/.nuget/packages/automapper/8.1.1/automapper.8.1.1.nupkg.sha512",
     "/Users/manhnguyen/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/6.1.1/automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",
     "/Users/manhnguyen/.nuget/packages/castle.core/4.2.1/castle.core.4.2.1.nupkg.sha512",
+    "/Users/manhnguyen/.nuget/packages/cloudinarydotnet/1.8.0/cloudinarydotnet.1.8.0.nupkg.sha512",
     "/Users/manhnguyen/.nuget/packages/fluentvalidation/8.5.1/fluentvalidation.8.5.1.nupkg.sha512",
     "/Users/manhnguyen/.nuget/packages/fluentvalidation.aspnetcore/8.5.1/fluentvalidation.aspnetcore.8.5.1.nupkg.sha512",
     "/Users/manhnguyen/.nuget/packages/fluentvalidation.dependencyinjectionextensions/8.5.1/fluentvalidation.dependencyinjectionextensions.8.5.1.nupkg.sha512",

@@ -6,6 +6,9 @@ export interface IActivity {
     date: Date;
     city: string;
     venue: string;
+    isGoing: boolean; // is the currently logged in user is going to this event
+    isHost: boolean; // is the currently logged in user the host of this event
+    attendees: IAttendee[];
 }
 
 export interface IActivityFormValues extends Partial<IActivity>{ // keyword Partial: make all properties inside IAcitivy above optional
@@ -31,3 +34,9 @@ export class ActivityFormValues implements IActivityFormValues {
     }
 }
 
+export interface IAttendee {
+    username: string;
+    displayName: string;
+    image: string;
+    isHost: boolean;
+}
