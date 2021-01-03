@@ -24,7 +24,7 @@ namespace Application.Photos
         public PhotoUploadResult AddPhoto(IFormFile file)
         {
             var uploadResult = new ImageUploadResult();
-
+            
             if (file.Length > 0)
             {
                 using (var stream = file.OpenReadStream())
