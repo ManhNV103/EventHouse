@@ -60,6 +60,7 @@ const requests = {
   postForm: (url: string, file: Blob) => {
     let formData = new FormData();
     formData.append('File', file);
+    debugger;
     return axios.post(url, formData, {
       headers: {'Content-type': 'multipart/form-data'}
     }).then(responseBody)

@@ -21,6 +21,7 @@ const ProfilePhoto = () => {
   const [deleteTarget, setDeleteTarget] = useState<string | undefined>(undefined);
 
   const handleUploadImage = (photo: Blob) => {
+    debugger
     uploadPhoto(photo).then(() => setAddPhotoMode(false));
   };
 

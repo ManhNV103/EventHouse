@@ -44,6 +44,7 @@ export default class ProfileStore {
   @action uploadPhoto = async (file: Blob) => {
     this.uploadingPhoto = true;
     try {
+      debugger
       const photo = await agent.Profiles.uploadPhoto(file);
       runInAction(() => {
         if (this.profile) {
