@@ -12,9 +12,9 @@ namespace API.Controllers
     public class ActivitiesController : BaseController
     {
         [HttpGet]
-        public async Task<ActionResult<List<ActivityDto>>> List() // cannot have List.Query query as argument, because there is no such info in a get request
+        public async Task<ActionResult<List.ActivityEnvelope>> List(int? limit, int? offset, bool isGoing, bool isHost, DateTime? startDate) // cannot have List.Query query as argument, because there is no such info in a get request
         {
-            return await Mediator.Send(new List.Query());
+            return await Mediator.Send(new List.Query(limit, offset, isGoing, isHost, startDate));
         }
 
         [HttpGet("{id}")]
