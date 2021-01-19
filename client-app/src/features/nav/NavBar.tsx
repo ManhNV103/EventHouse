@@ -16,7 +16,7 @@ const NavBar: React.FC = () => {
             alt="logo"
             style={{ marginRight: "10px" }}
           />
-          Reactivities
+          Event House
         </Menu.Item>
         <Menu.Item name="Activities" as={NavLink} to="/activities" />
         <Menu.Item>

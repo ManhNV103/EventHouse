@@ -19,7 +19,7 @@ export const HomePage = () => {
             alt="logo"
             style={{ marginBottom: 12 }}
           />
-          Reactivities
+          Event House
         </Header>
         {isLoggedIn && user ? (
           <Fragment>
@@ -34,7 +34,7 @@ export const HomePage = () => {
           </Fragment>
         ) : (
           <Fragment>
-            <Header as="h2" inverted content="Welcome to Reactivities" />
+            <Header as="h2" inverted content="Welcome to Event House" />
             <Button onClick={() => openModal(<LoginForm/>)} size="huge" inverted>
               Login
             </Button>
